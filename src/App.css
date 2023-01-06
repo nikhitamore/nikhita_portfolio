@@ -1,38 +1,25 @@
 .App {
   text-align: center;
+  z-index: 1;
+  overflow-y:hidden;
+}
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+
+
+#root{
+  overflow:hidden;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#part1{
+  position: relative;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#tsparticles {
+  position: "unset"!important;
+  /* width: 100%;
+  background-color: #0ab1e9;
+  height: 100%; */
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.particlecanvas{
+position: "unset"!important;
 }
