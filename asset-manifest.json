@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nikhita_portfolio/static/css/main.a34a9f50.css",
+    "main.js": "/nikhita_portfolio/static/js/main.335337b4.js",
+    "static/js/787.292bc5d0.chunk.js": "/nikhita_portfolio/static/js/787.292bc5d0.chunk.js",
+    "static/media/Nikhita_More.pdf": "/nikhita_portfolio/static/media/Nikhita_More.30713e49afe6b9ed08a1.pdf",
+    "static/media/python.jpg": "/nikhita_portfolio/static/media/python.aadf501e27441e46ac13.jpg",
+    "static/media/Map.PNG": "/nikhita_portfolio/static/media/Map.9901368d94843490ef37.PNG",
+    "static/media/Profile.jpg": "/nikhita_portfolio/static/media/Profile.d6f9e78d50522cd4f655.jpg",
+    "static/media/Collaboration.jpg": "/nikhita_portfolio/static/media/Collaboration.75a255e6cdb25feb5be9.jpg",
+    "index.html": "/nikhita_portfolio/index.html",
+    "main.a34a9f50.css.map": "/nikhita_portfolio/static/css/main.a34a9f50.css.map",
+    "main.335337b4.js.map": "/nikhita_portfolio/static/js/main.335337b4.js.map",
+    "787.292bc5d0.chunk.js.map": "/nikhita_portfolio/static/js/787.292bc5d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a34a9f50.css",
+    "static/js/main.335337b4.js"
+  ]
+}
